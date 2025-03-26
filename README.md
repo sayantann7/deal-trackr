@@ -67,7 +67,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/sayantann7/deal-trackr.git
-cd pricewise
+cd deal-trackr
 ```
 
 **Installation**
